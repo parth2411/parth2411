@@ -201,7 +201,7 @@ const parth = {
 <!-- BLOG-POST-LIST:START -->
 - 🔥 Building Production-Ready AI Systems: Best Practices
 - 🧠 Understanding Transformer Architecture from Scratch
-- 🎨 Fine-Tuning Stable Diffusion for Custom Image Generation
+- 🎨 Fine-Tuning VLM for Threat Detection
 - 📊 MLOps: From Jupyter Notebooks to Production
 - 🚀 Optimizing Deep Learning Models for Edge Devices
 <!-- BLOG-POST-LIST:END -->

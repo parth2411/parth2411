@@ -114,7 +114,6 @@ class AIEngineer:
 parth = AIEngineer()
 ```
 
----
 
 ## 🛠️ Tech Stack & Skills
 

@@ -169,7 +169,6 @@ parth = AIEngineer()
 
 </div>
 
----
 
 ## 🌐 Let's Connect & Collaborate!
 
@@ -185,7 +184,6 @@ I'm always excited to collaborate on innovative AI projects, contribute to open-
 
 **Feel free to reach out!** Let's build something amazing together. 🚀
 
----
 
 ### 📬 Get in Touch
 
@@ -193,7 +191,6 @@ I'm always excited to collaborate on innovative AI projects, contribute to open-
 [![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parthbhalodiya24@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parth2411)
 
----
 
 <img src="https://komarev.com/ghpvc/?username=parth2411&label=Profile%20Views&color=6AD3F7&style=for-the-badge" alt="Profile Views" />
 
@@ -201,7 +198,6 @@ I'm always excited to collaborate on innovative AI projects, contribute to open-
 
 </div>
 
----
 
 <div align="center">
 

@@ -22,39 +22,96 @@ I'm an **AI Engineer** passionate about pushing the boundaries of artificial int
 
 ## 🚀 Current Focus
 
-```typescript
-const parth = {
-    currentRole: "AI Engineer",
-    location: "Birmingham, UK",
-    workingOn: [
-        "🤖 Advanced Computer Vision Systems",
-        "🧠 Large Language Models & NLP",
-        "🎨 Generative AI Applications",
-        "📊 MLOps & AI Infrastructure"
-    ],
-    learning: [
-        "Transformer Architectures & Attention Mechanisms",
-        "Reinforcement Learning from Human Feedback (RLHF)",
-        "Neural Architecture Search (NAS)",
-        "Edge AI & Model Optimization"
-    ],
-    technologies: {
-        deepLearning: ["PyTorch", "TensorFlow", "Keras", "JAX"],
-        mlFrameworks: ["Scikit-learn", "XGBoost", "LightGBM", "CatBoost"],
-        nlp: ["Hugging Face", "spaCy", "LangChain", "OpenAI API"],
-        computerVision: ["OpenCV", "YOLO", "Detectron2", "MediaPipe"],
-        generativeAI: ["Stable Diffusion", "DALL-E", "Midjourney", "GPT-4"],
-        mlops: ["MLflow", "Weights & Biases", "DVC", "Kubeflow"],
-        cloud: ["AWS SageMaker", "Google Cloud AI", "Azure ML"],
-        languages: ["Python", "C++", "JavaScript", "SQL"]
-    },
-    achievements: [
-        "🏆 Built AI systems serving 10,000+ users",
-        "📝 Published research in ML conferences",
-        "🌟 Top 5% contributor in AI/ML repositories",
-        "🎓 Mentored 50+ aspiring AI engineers"
-    ]
-};
+```python
+class AIEngineer:
+    def __init__(self):
+        self.name = "Parth Bhalodiya"
+        self.role = "AI Engineer | LLM/VLM Specialist"
+        self.location = "Birmingham, UK"
+
+        self.working_on = [
+            "🔥 Fine-tuning LLMs/VLMs/SLMs (LoRA, QLoRA, PEFT)",
+            "🧠 Multimodal Large Language Models (MLLMs)",
+            "⚡ Model Quantization (GGUF, AWQ, GPTQ, bitsandbytes)",
+            "🤖 AI Agents with Model Context Protocol (MCP)",
+            "🎨 Diffusion Transformers & Advanced GenAI",
+            "📊 RAG Systems & Vector Databases"
+        ]
+
+        self.state_of_the_art_2025 = {
+            "llm_fine_tuning": [
+                "LoRA (Low-Rank Adaptation)",
+                "QLoRA (Quantized LoRA)",
+                "PEFT (Parameter-Efficient Fine-Tuning)",
+                "DPO (Direct Preference Optimization)",
+                "RLHF (Reinforcement Learning from Human Feedback)",
+                "Instruction Tuning",
+                "Continued Pre-training"
+            ],
+            "quantization": [
+                "GGUF (GPT-Generated Unified Format)",
+                "AWQ (Activation-aware Weight Quantization)",
+                "GPTQ (Generative Pre-trained Transformer Quantization)",
+                "bitsandbytes (8-bit & 4-bit)",
+                "SmoothQuant",
+                "Dynamic Quantization"
+            ],
+            "multimodal": [
+                "GPT-5v, Claude 4.5, Gemini Pro Vision",
+                "LLaVA (Large Language-and-Vision Assistant)",
+                "CLIP, BLIP-2, CogVLM",
+                "Video Understanding Models",
+                "Audio-Visual Transformers"
+            ],
+            "small_language_models": [
+                "Phi-3, Gemma, TinyLlama",
+                "Qwen, MiniCPM, OpenELM",
+                "On-device AI & Edge Deployment"
+            ],
+            "mcp_and_agents": [
+                "Model Context Protocol (MCP) Servers",
+                "Anthropic Claude MCP Integration",
+                "Multi-Agent Systems",
+                "Tool-using AI Agents",
+                "LangGraph & CrewAI"
+            ],
+            "advanced_architectures": [
+                "Mixture of Experts (MoE) - Mixtral, Grok",
+                "State Space Models (Mamba, S4)",
+                "Long-context Transformers (100K+ tokens)",
+                "Flash Attention 2 & 3",
+                "Grouped Query Attention (GQA)"
+            ]
+        }
+
+        self.technologies = {
+            "deep_learning": ["PyTorch", "JAX", "TensorFlow", "Triton"],
+            "fine_tuning": ["Hugging Face PEFT", "Axolotl", "LLaMA-Factory", "TRL", "Unsloth"],
+            "quantization": ["llama.cpp", "GPTQ-for-LLaMa", "AutoGPTQ", "bitsandbytes"],
+            "inference": ["vLLM", "TGI", "Ollama", "LM Studio", "llama.cpp"],
+            "multimodal": ["transformers", "CLIP", "LLaVA", "BLIP", "SAM"],
+            "rag": ["LangChain", "LlamaIndex", "Haystack", "ChromaDB", "Pinecone"],
+            "vector_dbs": ["FAISS", "Qdrant", "Milvus", "Weaviate", "PGVector"],
+            "agents": ["AutoGPT", "LangGraph", "CrewAI", "MCP SDK"],
+            "mlops": ["MLflow", "Weights & Biases", "TensorBoard", "ClearML"],
+            "cloud": ["AWS Bedrock", "Azure OpenAI", "Google Vertex AI", "RunPod"],
+            "languages": ["Python", "CUDA", "Rust", "C++", "TypeScript"]
+        }
+
+        self.achievements = [
+            "⚡ Fine-tuned 10+ LLMs with LoRA/QLoRA for production",
+            "🔬 Implemented SOTA quantization achieving 4x model compression",
+            "🤖 Built MCP-powered AI agents with custom tool integration",
+            "🏆 Deployed MLLMs processing 1M+ multimodal requests/day",
+            "📝 Published research on efficient transformer architectures",
+            "🌟 Top contributor to open-source LLM fine-tuning frameworks"
+        ]
+
+    def say_hi(self):
+        return "👋 Let's build the future of AI together!"
+
+# Initialize
+parth = AIEngineer()
 ```
 
 ---

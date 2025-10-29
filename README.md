@@ -4,7 +4,6 @@
 
 </div>
 
----
 
 ## 👨‍💻 About Me
 
@@ -18,7 +17,6 @@ I'm an **AI Engineer** passionate about pushing the boundaries of artificial int
 
 </div>
 
----
 
 ## 🚀 Current Focus
 
